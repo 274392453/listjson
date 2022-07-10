@@ -1,14 +1,14 @@
 {
-    "name": "Swap Extended",
+    "name": "ArmySwap Extended",
     "timestamp": "2022-07-06T17:23:32.899Z",
     "version": {
       "major": 2,
       "minor": 16,
       "patch": 98
     },
-    "logoURI": "https://pancakeswap.finance/logo.png",
+    "logoURI": "https://tokenimg.armyswap.cn/logo.png",
     "keywords": [
-      "swap",
+      "armyswap",
       "extended"
     ],
     "tokens": [
