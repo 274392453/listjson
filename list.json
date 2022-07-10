@@ -18,7 +18,7 @@
             "address": "0x910A78955E1519058971df6F8289a0BEA3FD748c",
             "chainId": 56,
             "decimals": 18,
-            "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+            "logoURI": "https://raw.githubusercontent.com/274392453/listjson/main/1.png"
           },
       {
         "name": "Swap Token",
@@ -26,7 +26,7 @@
         "address": "0x0fC7acdF32b250a6c2601fbFE8793a9e094F53A1",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+        "logoURI": "https://raw.githubusercontent.com/274392453/listjson/main/2.png"
       }
     ]
   }
